@@ -11,7 +11,7 @@ Please register via Courseworks, the course is also open to external guests
 
 ## Schedule
 ### Methods for decoding and interpreting neural data
-* Feb 01 *Methods on calculating receptive fields* (Ji Xia)
+* Feb 01 *Methods on calculating receptive fields* (Ji Xia) [Material by Ji Xia](https://github.com/RainerEngelken/lnp_model_tutorial)
 * Feb 08 *Information theory* (Jeff Johnston)
 * Feb 15 *Many methods, one problem: modern inference techniques as applied to linear regression* (Juri Minxha)
 
