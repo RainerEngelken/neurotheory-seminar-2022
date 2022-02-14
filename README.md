@@ -13,7 +13,7 @@ Please register via Courseworks, the course is also open to external guests
 ### Methods for decoding and interpreting neural data
 * Feb 01 *Methods on calculating receptive fields* (Ji Xia) [Material by Ji Xia](https://github.com/RainerEngelken/lnp_model_tutorial)
 * Feb 08 *Information theory* (Jeff Johnston)
-* Feb 15 *Many methods, one problem: modern inference techniques as applied to linear regression* (Juri Minxha)
+* Feb 15 *cancelled* 
 
 ### Neural representations
 * Feb 22 *Geometry of abstractions* (theory session) (Valeria Fascianelli)
@@ -33,3 +33,4 @@ Please register via Courseworks, the course is also open to external guests
 * May 3 *Causality and latent variable models* (Josh Glaser)
 
 * May 10 *student presentations*
+* May 17 Bonus session: *Many methods, one problem: modern inference techniques as applied to linear regression* (Juri Minxha)
