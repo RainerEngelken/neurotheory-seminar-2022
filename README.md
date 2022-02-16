@@ -20,9 +20,9 @@ Please register via Courseworks, the course is also open to external guests
 * Mar 01 *Geometry of abstractions* (hands-on session) (Lorenzo Posani)
 
 ### Network dynamics
-* Feb 22 *Solving very nonlinear problems with Homotopy Analysis Method*  (Serena Di Santo)
-* Mar 01 *Forgetting in attractor networks* (Samuel Muscinelli)
-* Mar 01 *Mean-field models of network dynamics* (Alessandro Sanzeni + Mario Dipoppa)
+* Mar 08 *Solving very nonlinear problems with Homotopy Analysis Method*  (Serena Di Santo)
+* Mar 29 *Forgetting in attractor networks* (Samuel Muscinelli)
+* Apr 05 *Mean-field models of network dynamics* (Alessandro Sanzeni + Mario Dipoppa)
 
 ### Dynamics of learning
 * Apr 12 *Learning dynamics in feedforward neural networks* (Manuel Beiran + Rainer Engelken)
