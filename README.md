@@ -16,7 +16,7 @@ Please register via Courseworks, the course is also open to external guests
 * Feb 15 *cancelled* 
 
 ### Neural representations
-* Feb 22 *Geometry of abstractions* (theory session) (Valeria Fascianelli)
+* Feb 22 *Geometry of abstractions* (theory session) (Valeria Fascianelli) [slides by Valeria Fascianelli](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/geometry_abstractions_February_2022.pdf)
 * Mar 01 *Geometry of abstractions* (hands-on session) (Lorenzo Posani)
 
 ### Network dynamics
