@@ -20,7 +20,7 @@ Please register via Courseworks, the course is also open to external guests
 * Mar 01 *Geometry of abstractions* (hands-on session) (Lorenzo Posani)
 
 ### Network dynamics
-* Mar 08 *Solving very nonlinear problems with Homotopy Analysis Method*  (Serena Di Santo) [material by Serena Di Santo](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/HomotopyAnalysisMethod.pdf)
+* Mar 08 *Solving very nonlinear problems with Homotopy Analysis Method*  (Serena Di Santo) [notes by Serena Di Santo](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/HomotopyAnalysisMethod.pdf) [notebook by Serena Di Santo](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/HAM_handson2_Serena.nb) 
 * Mar 29 *Forgetting in attractor networks* (Samuel Muscinelli)
 * Apr 05 *Mean-field models of network dynamics* (Alessandro Sanzeni + Mario Dipoppa)
 
