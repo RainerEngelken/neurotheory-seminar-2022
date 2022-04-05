@@ -17,7 +17,7 @@ Please register via Courseworks, the course is also open to external guests
 
 ### Neural representations
 * Feb 22 *Geometry of abstractions* (theory session) (Valeria Fascianelli) [slides](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/geometry_abstractions_February_2022.pdf)
-* Mar 01 *Geometry of abstractions* (hands-on session) (Lorenzo Posani)
+* Mar 01 *Geometry of abstractions* (hands-on session) (Lorenzo Posani) [notebook](https://colab.research.google.com/drive/1MQ44b1xKsqyDYiOb22LYZ414iYgwJ4VA#scrollTo=oPtWoVhyAGk3)
 
 ### Network dynamics
 * Mar 08 *Solving very nonlinear problems with Homotopy Analysis Method*  (Serena Di Santo) [notes](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/HomotopyAnalysisMethod.pdf) [notebook](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/HAM_handson2_Serena.nb) 
