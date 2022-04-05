@@ -22,7 +22,7 @@ Please register via Courseworks, the course is also open to external guests
 ### Network dynamics
 * Mar 08 *Solving very nonlinear problems with Homotopy Analysis Method*  (Serena Di Santo) [notes](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/HomotopyAnalysisMethod.pdf) [notebook](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/HAM_handson2_Serena.nb) 
 * Mar 29 *Forgetting in attractor networks* (Samuel Muscinelli)
-* Apr 05 *Mean-field models of network dynamics* (Alessandro Sanzeni + Mario Dipoppa)
+* Apr 05 *Mean-field models of network dynamics* (Alessandro Sanzeni + Mario Dipoppa) [slides](https://github.com/RainerEngelken/neurotheory-seminar-2022/blob/main/ATC_04052022_SlidesAlessandro.pdf)
 
 ### Dynamics of learning
 * Apr 12 *Learning dynamics in feedforward neural networks* (Manuel Beiran + Rainer Engelken)
