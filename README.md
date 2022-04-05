@@ -30,7 +30,7 @@ Please register via Courseworks, the course is also open to external guests
 
 ### Causality
 * Apr 26 *Introduction to some causality issues in neuroscience* (Laureline Logiaco)
-* May 3 *Causality and latent variable models* (Josh Glaser)
+* May 3 *Causal Inference* (  Amin Nejatbakhsh)
 
 * May 10 *student presentations*
 * May 17 Bonus session: *Many methods, one problem: modern inference techniques as applied to linear regression* (Juri Minxha)
